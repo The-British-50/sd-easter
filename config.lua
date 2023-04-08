@@ -73,6 +73,10 @@ Config.easterBasket = {
                 item = "mm",
                 amount = 3
             },
+            {
+                item = "pokemonboosterpack",
+                amount = 1
+            },
         }
     },
     [3] = {
@@ -95,6 +99,10 @@ Config.easterBasket = {
             {
                 item = "bunny",
                 amount = 1
+            },
+            {
+                item = "pokemonboosterpack",
+                amount = 5
             },
         }
     }
