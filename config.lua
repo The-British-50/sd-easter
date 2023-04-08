@@ -43,15 +43,15 @@ Config.easterBasket = {
         cost = 5,
         rewards = {
             {
-                item = "chocolatebunny",
+                item = "mandms",
                 amount = 1
             },
             {
-                item = "jellybeans",
+                item = "peanutmandms",
                 amount = 1
             },
             {
-                item = "mm",
+                item = "hersheysbar",
                 amount = 1
             },
         }
@@ -62,15 +62,15 @@ Config.easterBasket = {
         cost = 10,
         rewards = {
             {
-                item = "chocolatebunny",
+                item = "mandms",
                 amount = 3
             },
             {
-                item = "jellybeans",
+                item = "peanutmandms",
                 amount = 3
             },
             {
-                item = "mm",
+                item = "hersheysbar",
                 amount = 3
             },
             {
@@ -85,20 +85,16 @@ Config.easterBasket = {
         cost = 20,
         rewards = {
             {
-                item = "chocolatebunny",
+                item = "mandms",
                 amount = 5
             },
             {
-                item = "jellybeans",
+                item = "peanutmandms",
                 amount = 5
             },
             {
-                item = "mm",
+                item = "hersheysbar",
                 amount = 5
-            },
-            {
-                item = "bunny",
-                amount = 1
             },
             {
                 item = "pokemonboosterpack",
